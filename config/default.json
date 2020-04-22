@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://psyspeedi:147258369@cluster0-z8yy5.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "psyspeedi secret key",
+  "baseUrl": "http://localhost:5000"
+}
